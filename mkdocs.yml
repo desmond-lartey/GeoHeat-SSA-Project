@@ -1,0 +1,54 @@
+site_name: Urban Dynamics and GeoAI
+site_description: Mapping urban heat dynamics in Sub-Saharan Africa — a multi-city analysis of the drivers of urban heat islands
+site_author: Desmond Lartey
+repo_url: https://github.com/desmond-lartey/GeoHeat-SSA-Project
+
+copyright: "Copyright &copy; 2026 Desmond Lartey"
+
+theme:
+    name: material
+    favicon: assets/favicon.png
+    icon:
+        logo: material/thermometer-high
+        repo: fontawesome/brands/github
+    palette:
+        - scheme: slate
+          primary: deep purple
+          accent: pink
+          toggle:
+              icon: material/toggle-switch
+              name: Switch to light mode
+        - scheme: default
+          primary: deep purple
+          accent: pink
+          toggle:
+              icon: material/toggle-switch-off-outline
+              name: Switch to dark mode
+    features:
+        - navigation.instant
+        - navigation.tracking
+        - navigation.top
+        - search.highlight
+        - search.share
+        - content.code.copy
+
+plugins:
+    - search
+    - include-markdown
+
+nav:
+    - Home: index.md
+    - Study Design: study-design.md
+    - Pipeline: pipeline.md
+    - Script Reference: script-reference.md
+    - Data & Outputs: data-outputs.md
+    - Findings: findings.md
+
+markdown_extensions:
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    - pymdownx.highlight
+    - tables
+    - toc:
+          permalink: true
