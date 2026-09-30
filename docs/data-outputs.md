@@ -13,7 +13,7 @@ a persistent CSV of population totals is needed.
 |---|---|---|---|---|
 | `02_lst_gapfilling_lagos.js` | `{City}_GapFilled_{year}.tif` | GeoTIFF, multi-band (SR + thermal) | 1 city × 25 years/run | 30 m |
 | `03_landcover_allcities.js` | `{City}_{Year}_LULC_10m.tif` | GeoTIFF, single-band, 6-class | 4 cities × 7 years = 28 | 30 m |
-| `04_uhii_comparison.js` | `UHII_Statistics_Cities.csv` | CSV | 1 file, 32 rows (8 datasets × 4 cities) | — |
+| `04_uhii_comparison.js` | `UHII_Statistics_Cities.csv` | CSV | 1 file, 32 rows (8 datasets × 4 cities) | - |
 | `04_uhii_comparison.js` | `UHII_{dataset}_{city}.tif` | GeoTIFF | 8 datasets × 4 cities = 32 | 30 m |
 
 ## LULC class schema

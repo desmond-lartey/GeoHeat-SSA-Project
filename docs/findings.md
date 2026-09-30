@@ -5,8 +5,8 @@
 | City | Mean LST 2000 | Mean LST 2024 | Trend direction | Statistically significant? |
 |---|---|---|---|---|
 | Kinshasa | 28.7 °C | 33.9 °C | Rising (largest increase) | Yes |
-| Lagos | — | — | Rising | Yes |
-| Nairobi | — | — | Rising | No |
+| Lagos | - | - | Rising | Yes |
+| Nairobi | - | - | Rising | No |
 | Johannesburg | 32.8 °C | 27.4 °C | Falling | Yes |
 
 Mean temperatures were consistently higher in Nairobi and lowest in
@@ -18,7 +18,7 @@ city except Nairobi.
 ## UTFVI (urban thermal field variance) evolution
 
 - From 2000→2010→2020, the extent of the *most* thermally stressed
-  locations generally **decreased** across cities — except in **Lagos**,
+  locations generally **decreased** across cities - except in **Lagos**,
   where it did not.
 - From 2020→2024, the extent of the most stressed locations **increased
   in all four cities**.
@@ -27,7 +27,7 @@ city except Nairobi.
   and **increased** in Kinshasa.
 - Across all years and cities, weak-to-strong thermally changed area
   covers **>52% of the study area**, except in Johannesburg, where
-  **~51%** of the area shows no change in both 2020 and 2024 — consistent
+  **~51%** of the area shows no change in both 2020 and 2024 - consistent
   with its declining LST trend.
 
 ## LULC–UTFVI regression, by city
@@ -53,11 +53,11 @@ vegetation are linked to more modest UTFVI improvements.
 GAM and Spearman's rank correlation between LST and each spectral index,
 fit separately for 2000 and 2024, per city:
 
-- **NDVI** is negatively correlated with LST in nearly every city-year —
+- **NDVI** is negatively correlated with LST in nearly every city-year -
   the sole exception is Kinshasa in 2000.
 - **NDBI** is positively correlated with LST in **every** city-year
   combination.
-- **MNDWI** is generally positively correlated with LST — exceptions are
+- **MNDWI** is generally positively correlated with LST - exceptions are
   Johannesburg and Kinshasa in 2000.
 - GAM results are broadly consistent with the Spearman correlations:
   mostly negative NDVI relationships and positive NDBI relationships;
@@ -80,8 +80,8 @@ Selected Spearman's ρ values (2024):
 2. **Vegetation cover is the most reliable cooling asset** across diverse
    climatic zones; water bodies provide thermal relief that is smaller
    and more contingent on local landscape configuration.
-3. **Despite city-specific differences in magnitude** — shaped by urban
-   morphology, governance context, and biophysical setting — the
+3. **Despite city-specific differences in magnitude** - shaped by urban
+   morphology, governance context, and biophysical setting - the
    *directional* relationships between LULC transitions and thermal
    outcomes are consistent across cities, supporting the generalisability
    of these findings across Sub-Saharan Africa.
@@ -89,8 +89,8 @@ Selected Spearman's ρ values (2024):
 ## Governance implications
 
 Heat-vulnerable zones systematically correspond with informal settlements
-in Lagos and Kinshasa — areas that also lack tree cover, green
-infrastructure, and safe housing — positioning urban heat as a **climate
+in Lagos and Kinshasa - areas that also lack tree cover, green
+infrastructure, and safe housing - positioning urban heat as a **climate
 justice issue**, not merely an environmental one. Effective adaptation
 must be redistributive, targeting ecological buffers and green
 infrastructure investment toward communities bearing a disproportionate
@@ -106,8 +106,8 @@ The manuscript identifies three priorities for follow-on work:
 
 - Integrating socio-demographic and infrastructural layers to produce
   multi-risk urban vulnerability maps.
-- Applying GeoAI and machine-learning techniques — including time-series
-  anomaly detection and spatial clustering — to sharpen UHI mapping
+- Applying GeoAI and machine-learning techniques - including time-series
+  anomaly detection and spatial clustering - to sharpen UHI mapping
   granularity.
 - Embedding thermal intelligence into digital urban twins and
   decision-support systems to guide proactive, equitable climate

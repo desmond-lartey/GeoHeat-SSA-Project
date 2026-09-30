@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/desmond-lartey/GeoHeat-SSA-Project" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/status-manuscript-blueviolet" alt="Status"></a>
-  <a href="https://github.com/desmond-lartey/GeoHeat-SSA-Project/blob/main/LICENSE" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
+  <a href="https://github.com/desmond-lartey/GeoHeat-SSA-Project/blob/Fires/LICENSE" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
   <img src="https://img.shields.io/badge/period-2000–2024-lightgrey" alt="Period">
   <img src="https://img.shields.io/badge/cities-4-orange" alt="Cities">
   <img src="https://img.shields.io/badge/platform-Google%20Earth%20Engine-informational" alt="Platform">
@@ -41,8 +41,8 @@ the manuscript:
 - **Harmonizes ESRI 2017–2023 Global Land Cover (10 m, Sentinel-2)** into a
   5-class scheme (Water, Vegetation, Built Area, Bare Ground) per city, per
   year, clipped to GAUL Admin-1 boundaries.
-- **Computes the Urban Thermal Field Variance Index (UTFVI)** — LST
-  normalized by each city's own mean and standard deviation — as a
+- **Computes the Urban Thermal Field Variance Index (UTFVI)** - LST
+  normalized by each city's own mean and standard deviation - as a
   climate-independent, cross-city comparable proxy for urban thermal stress.
 - **Derives NDVI, NDBI, and MNDWI spectral indices** from Landsat surface
   reflectance to characterize vegetation, built-up, and water signal at
@@ -61,8 +61,8 @@ the manuscript:
 
 ## Main findings
 
-- **Kinshasa recorded the largest thermal increase** — mean LST rose from
-  28.7 °C in 2000 to 33.9 °C in 2024 — while **Johannesburg's mean LST fell**
+- **Kinshasa recorded the largest thermal increase** - mean LST rose from
+  28.7 °C in 2000 to 33.9 °C in 2024 - while **Johannesburg's mean LST fell**
   from 32.8 °C to 27.4 °C over the same period.
 - **Temperature trends are rising and statistically significant in Nairobi,
   Lagos, and Kinshasa**, and significantly declining in Johannesburg; only
@@ -71,8 +71,8 @@ the manuscript:
   stress across all four cities**, with the effect strongest in
   Johannesburg (r = +0.56) and present but weaker in Nairobi (r = +0.39),
   Lagos, and Kinshasa.
-- **Vegetation cover cools consistently across cities** — the strongest
-  effect is in Nairobi (r = −0.36) — while water bodies provide smaller and
+- **Vegetation cover cools consistently across cities** - the strongest
+  effect is in Nairobi (r = −0.36) - while water bodies provide smaller and
   more spatially variable thermal relief, especially in Lagos and Kinshasa.
 - **Higher NDBI tracks higher LST and higher NDVI/MNDWI track lower LST**
   in nearly every city-year combination, corroborating the UTFVI-based

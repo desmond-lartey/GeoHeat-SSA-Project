@@ -4,8 +4,8 @@
 
 To characterize the spatiotemporal dynamics of urban heat across four Sub-
 Saharan African (SSA) cities between 2000 and 2024, and to quantify how
-land-use and land-cover (LULC) change — particularly built-up expansion,
-vegetation loss, and water cover — drives thermal stress, using a
+land-use and land-cover (LULC) change - particularly built-up expansion,
+vegetation loss, and water cover - drives thermal stress, using a
 climate-normalized thermal index (UTFVI) that supports valid cross-city
 comparison.
 
@@ -43,11 +43,11 @@ computed at four benchmark years: **2000, 2010, 2020, and 2024**.
 
 ## Core indices
 
-- **Land Surface Temperature (LST)** — Landsat thermal band converted to
+- **Land Surface Temperature (LST)** - Landsat thermal band converted to
   at-sensor radiance, then brightness temperature (K) via sensor-specific
   calibration constants (K1, K2), then to °C via the standard blackbody
   equation.
-- **Urban Thermal Field Variance Index (UTFVI)** — LST standardized by
+- **Urban Thermal Field Variance Index (UTFVI)** - LST standardized by
   each city's own mean and standard deviation
   (`UTFVI = (LST − mean_LST) / std_LST`). Because raw LST is confounded by
   each city's background climate (Johannesburg's subtropical highland
@@ -55,7 +55,7 @@ computed at four benchmark years: **2000, 2010, 2020, and 2024**.
   climate regardless of urban heat intensity), UTFVI isolates the *urban*
   heat signal from *regional* climate and is used as the primary
   comparative metric across cities.
-- **NDVI, NDBI, MNDWI** — standard Landsat spectral indices for
+- **NDVI, NDBI, MNDWI** - standard Landsat spectral indices for
   vegetation, built-up, and water/moisture, used to corroborate the
   UTFVI-based LULC relationships with an independent spectral analysis.
 
@@ -81,5 +81,5 @@ computed at four benchmark years: **2000, 2010, 2020, and 2024**.
     This site documents the Google Earth Engine (GEE) scripts used for
     data acquisition, preprocessing, and export. Statistical modeling
     (GAM, Spearman, Mann-Kendall) and the final regression figures were
-    produced downstream from the exported CSV/GeoTIFF outputs — see
+    produced downstream from the exported CSV/GeoTIFF outputs - see
     [Data & Outputs](data-outputs.md).
