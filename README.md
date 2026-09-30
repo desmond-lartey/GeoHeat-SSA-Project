@@ -13,7 +13,7 @@
 
 Urban heat island (UHI) effects are intensifying across Sub-Saharan Africa
 (SSA), raising climate vulnerability in rapidly growing cities with limited
-adaptive capacity, yet comparative evidence on what actually drives urban
+adaptive capacity, however, comparative evidence on what actually drives urban
 heat across the region remains limited. This project maps the spatiotemporal
 dynamics of urban heat and the influence of land-use and land-cover (LULC)
 change on thermal stress in **Johannesburg, Nairobi, Lagos, and Kinshasa**
