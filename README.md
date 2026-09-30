@@ -27,8 +27,7 @@ This repository holds the companion Google Earth Engine (GEE) scripts for
 the manuscript:
 
 > Mapping urban heat dynamics in Sub-Saharan Africa: a multi-city analysis of
-> drivers of urban heat island across African cities. *Manuscript in
-> preparation, Desmond Lartey et al.*
+> drivers of urban heat island across African cities. *published, Kwaku Owusu Twum, Andrews Korah, Desmond Lartey, Michael Osei Asibey, Gifty Attiah, Anthony Sarfo, Emmanuel Frimpong Boamah*
 
 ## What this study does
 
