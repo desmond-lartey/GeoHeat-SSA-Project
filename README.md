@@ -3,7 +3,8 @@
 **Mapping urban heat dynamics in Sub-Saharan Africa: a multi-city analysis of the drivers of urban heat islands.**
 
 <p align="center">
-  <a href="https://github.com/desmond-lartey/GeoHeat-SSA-Project" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/status-manuscript-blueviolet" alt="Status"></a>
+  <a href="https://github.com/desmond-lartey/GeoHeat-SSA-Project" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/status-published-brightgreen" alt="Status"></a>
+  <a href="http://dx.doi.org/10.1080/19376812.2026.2742326" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/DOI-10.1080%2F19376812.2026.2742326-blue" alt="DOI"></a>
   <a href="https://github.com/desmond-lartey/GeoHeat-SSA-Project/blob/Fires/LICENSE" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
   <img src="https://img.shields.io/badge/period-2000–2024-lightgrey" alt="Period">
   <img src="https://img.shields.io/badge/cities-4-orange" alt="Cities">
